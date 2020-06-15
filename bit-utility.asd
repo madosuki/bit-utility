@@ -5,7 +5,7 @@
 
 (defsystem :bit-utility
   :name "bit-utility"
-  :version "0.01"
+  :version "0.0.1"
   :author "madosuki"
   :licence "Public Domain"
   :description "bit-utility"
